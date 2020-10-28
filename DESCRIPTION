@@ -1,5 +1,5 @@
 Package: newpack
-Title: Nie robi nic ciekawego
+Title: Nie robi nic ciekawego, ale działa
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "mateusz",
